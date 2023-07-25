@@ -19,5 +19,4 @@ Education
 
 Work experience
 ======
-* July 2023 - Present: Robert and Sara Lumpkins Postdoctoral Research Associate
-  * University of Notre Dame
+* July 2023 - Present: Robert and Sara Lumpkins Postdoctoral Research Associate, University of Notre Dame.
