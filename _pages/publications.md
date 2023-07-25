@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Preprints
+## Preprints
 
 * **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, submitted.
 
 * **Z. Xu** & C.-W. Shu, Local characteristic decomposition free high order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants, submitted.
 
-# Journal Papers
+## Journal Papers
 
 * X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504">A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media</a>, Advances in Water Resources, (2023), 104504.
 
@@ -33,6 +33,6 @@ author_profile: true
 
 * H. Guo, L. Tian, **Z. Xu**, Y. Yang & N. Qi, <a href="https://doi.org/10.1016/j.cam.2018.10.021">High-order local discontinuous Galerkin method for simulating wormhole propagation</a>, Journal of Computational and Applied Mathematics, v350 (2019), pp.247-261.
 
-# Conference Papers
+## Conference Papers
 
 * **Z. Xu** & Y. Yang, <a href="https://doi.org/10.2118/212164-MS">The hybrid-dimensional Darcy’s law: A non-conforming reinterpreted discrete fracture model (RDFM) for the compressible miscible displacement and multicomponent gas flow in fractured media</a>, Paper presented at the SPE Reservoir Simulation Conference, (2023), SPE-212164-MS.
