@@ -13,9 +13,9 @@ Full CV available [here](/files/ZiyaoXu_CV.pdf)
 
 Education
 ======
-* B.S. in Petroleum Engineering, China University of Petroleum (East China), 2016
+* Ph.D. in Applied Mathematics, Brown University, 2023
 * M.S. in Mathematical Sciences, Michigan Technological University, 2019
-* Ph.D in Applied Mathematics, Brown University, 2023
+* B.S. in Petroleum Engineering, China University of Petroleum (East China), 2016
 
 Work experience
 ======
