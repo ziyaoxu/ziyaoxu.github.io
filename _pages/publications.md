@@ -11,7 +11,7 @@ method with the exact conservation property for systems of hyperbolic balance la
 * **Z. Xu** & C.-W. Shu, Local characteristic decomposition free high order finite difference WENO
 schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants, submitted.
 
-* X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="10.1016/j.advwatres.2023.104504"> A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media </a>, Advances in Water Resources, (2023), 104504.
+* X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504"> A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media </a>, Advances in Water Resources, (2023), 104504.
 
 * **Z. Xu** & C.-W. Shu, On the conservation property of positivity-preserving discontinuous Galerkin
 methods for stationary hyperbolic equations, Journal of Computational Physics, v490 (2023), 112304.
