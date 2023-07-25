@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# url: /files/ZiyaoXu_CV.pdf
+
 Education
 ======
 * B.S. in Petroleum Engineering, China University of Petroleum (East China), 2016
