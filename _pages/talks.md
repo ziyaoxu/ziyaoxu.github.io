@@ -5,47 +5,28 @@ permalink: /talks/
 author_profile: true
 ---
 
-* SPE Reservoir Simulation Conference, Galveston, Texas, USA, March 28-30, 2023.
+* The Hybrid-Dimensional Darcy’s Law: A Non-Conforming Reinterpreted Discrete Fracture Model
+(RDFM) for the Compressible Miscible Displacement and Multicomponent Gas Flow in Fractured Media, SPE Reservoir Simulation Conference, Galveston, TX, Mar. 2023.
 
-Poster: The Hybrid-Dimensional Darcy’s Law: A Non-Conforming Reinterpreted Discrete Fracture Model
-(RDFM) for the Compressible Miscible Displacement and Multicomponent Gas Flow in Fractured Media.
+* On the Conservation and Lax-Wendroff Theorem of Positivity-preserving Discontinuous
+Galerkin Methods for Stationary Hyperbolic Equations, CSCDR Seminar, Umass Dartmouth, North Dartmouth, MA, Oct. 2022.
 
-* CSCDR Seminar, Umass Dartmouth, North Dartmouth, MA, October 19, 2022.
+* A Reinterpreted Discrete Fracture Model for Fracture and Barrier Networks on Non-Conforming
+Meshes, SIAM Annual Meeting, Virtually, Jul. 2022.
 
-Presentation: On the Conservation and Lax-Wendroff Theorem of Positivity-preserving Discontinuous
-Galerkin Methods for Stationary Hyperbolic Equations.
+* High Order Conservative Positivity-Preserving Discontinuous Galerkin Method for Stationary
+Hyperbolic Equations, Copper Country Workshop on Applied Mathematics, Statistics, and Data Sciences, Michigan Technologycal
+University, Houghton, MI, Jul. 2022.
 
-* 2022 SIAM Annual Meeting, July 11-15, 2022. Co-organizer of MS8, MS23, MS49: Recent Advances in
-Computational Geosciences.
+* The Hybrid-Dimensional Darcy’s Law: A Novel Discrete Fracture Model for Fracture and
+Barrier Networks on Non-Conforming Meshes, SIAM Annual Meeting, Virtually, Jul. 2021. 
 
-Presentation: A Reinterpreted Discrete Fracture Model for Fracture and Barrier Networks on Non-Conforming
-Meshes.
+* The Hybrid-Dimensional Representation of Permeability Tensor: A Reinterpretation of the
+Discrete Fracture Model and its Extension on Nonconforming Meshes, SIAM Conference on Mathematical & Computational Issues in the Geosciences, Virtually, Jun. 2021.
 
-* Copper Country Workshop on Applied Mathematics, Statistics, and Data Sciences, Michigan Technologycal
-University, Houghton, MI, July 5-7, 2022.
+* High-Order Bound-Preserving Discontinuous Galerkin Method for Wormhole Propagation
+Model, SIAM Conference on Computational Science and Engineering, Spokane Convention Center, Spokane,
+WA, Feb. 2019.
 
-Presentation: High Order Conservative Positivity-Preserving Discontinuous Galerkin Method for Stationary
-Hyperbolic Equations.
-
-* 2021 SIAM Annual Meeting, July 19-24, 2021. Organizer of MS9: Models and Numerical Methods in
-Computational Geosciences.
-
-Presentation: The Hybrid-Dimensional Darcy’s Law: A Novel Discrete Fracture Model for Fracture and
-Barrier Networks on Non-Conforming Meshes.
-
-* 2021 SIAM Conference on Mathematical & Computational Issues in the Geosciences, June 21-24, 2021.
-
-Presentation: The Hybrid-Dimensional Representation of Permeability Tensor: A Reinterpretation of the
-Discrete Fracture Model and its Extension on Nonconforming Meshes.
-
-* 2019 SIAM Conference on Computational Science and Engineering, Spokane Convention Center, Spokane,
-WA, February 25 - March 1, 2019. Organizer of MS329: Recent Advances in Discontinuous Galerkin Methods
-for Partial Differential Equations.
-
-Presentation: High-Order Bound-Preserving Discontinuous Galerkin Method for Wormhole Propagation
-Model.
-
-* 2018 SIAM Great Lakes Section Annual Meeting, Wayne State University, Detroit, MI, April 21, 2018.
-
-Presentation: High-Order Bound-Preserving Discontinuous Galerkin Methods for Compressible Miscible
-Displacements in Porous Media on Triangular Meshes.
+* High-Order Bound-Preserving Discontinuous Galerkin Methods for Compressible Miscible
+Displacements in Porous Media on Triangular Meshes, SIAM Great Lakes Section Annual Meeting, Wayne State University, Detroit, MI, Apr. 2018.
