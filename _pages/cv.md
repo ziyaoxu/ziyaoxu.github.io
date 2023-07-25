@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# url: /files/ZiyaoXu_CV.pdf
+Full CV available [here](/files/ZiyaoXu_CV.pdf)
 
 Education
 ======
