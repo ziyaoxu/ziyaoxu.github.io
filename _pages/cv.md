@@ -17,6 +17,6 @@ Education
 * M.S. in Mathematical Sciences, Michigan Technological University, 2019
 * B.S. in Petroleum Engineering, China University of Petroleum (East China), 2016
 
-Work experience
+Work Experience
 ======
 * July 2023 - Present: Robert and Sara Lumpkins Postdoctoral Research Associate, University of Notre Dame.
