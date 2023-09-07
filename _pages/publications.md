@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+1. **Z. Xu** & C.-W. Shu, A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules, submitted.
+
 1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, submitted.
 
 1. **Z. Xu** & C.-W. Shu, Local characteristic decomposition free high order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants, submitted.
