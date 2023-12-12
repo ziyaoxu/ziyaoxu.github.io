@@ -22,4 +22,3 @@ Previously, I obtained my Master's degree in Mathematics at Michigan Technologic
 * ENO/WENO
 * Computational Fluid Dynamics
 * Fluid Flow in Porous Media
-
