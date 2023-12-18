@@ -12,6 +12,7 @@ author_profile: true
 1. **Z. Xu** & C.-W. Shu, Local characteristic decomposition free high order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants, submitted.
 
 ## Journal Papers
+
 1. **Z. Xu** & C.-W. Shu, A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules, Journal of Scientific Computing, to appear.
 
 1. X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504">A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media</a>, Advances in Water Resources, (2023), 104504.
