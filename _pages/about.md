@@ -18,7 +18,7 @@ Previously, I obtained my Master's degree in Mathematics at Michigan Technologic
 
 ### Research Interests
 
-* Finite Element 
-* ENO/WENO
+* Finite Element Methods
+* ENO/WENO Methods
 * Computational Fluid Dynamics
 * Fluid Flow in Porous Media
