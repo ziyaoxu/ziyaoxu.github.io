@@ -7,13 +7,18 @@ author_profile: true
 
 ## Preprints
 
+1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An Interior Penalty Discontinuous Galerkin Method for an Interface Model of Flow in Fractured Porous Media</a>, arXiv:2405.06874.
+
+1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338.
+
 1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, submitted.
+
+1. **Z. Xu** & C.-W. Shu, A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules, Journal of Scientific Computing, under review.
+
 
 ## Journal Papers
 
-1. **Z. Xu** & C.-W. Shu, Local characteristic decomposition free high order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants, SIAM Journal on Scientific Computing, to appear. 
-
-1. **Z. Xu** & C.-W. Shu, A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules, Journal of Scientific Computing, to appear.
+1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1137/22M1536479">Local characteristic decomposition–free high-order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants</a>, SIAM Journal on Scientific Computing, v46 (2024), pp.A1352-A1372. 
 
 1. X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504">A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media</a>, Advances in Water Resources, (2023), 104504.
 
