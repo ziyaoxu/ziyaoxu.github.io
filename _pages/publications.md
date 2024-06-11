@@ -7,9 +7,9 @@ author_profile: true
 
 ## Preprints
 
-1. **Z. Xu** & Y.-T. Zhang, High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations, submitted.
+1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2406.05237">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, arXiv:2406.05237.
 
-1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An Interior Penalty Discontinuous Galerkin Method for an Interface Model of Flow in Fractured Porous Media</a>, arXiv:2405.06874.
+1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874.
 
 1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338.
 
