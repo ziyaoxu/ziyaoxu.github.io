@@ -7,15 +7,15 @@ author_profile: true
 
 ## Preprints
 
-1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, preprint.
+1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, submitted to Journal of Computational Physics.
 
-1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2406.05237">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, arXiv:2406.05237.
+1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2406.05237">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, arXiv:2406.05237, submitted to Journal of Computational Physics.
 
-1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874.
+1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, submitted to Journal of Computational Physics.
 
-1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338.
+1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338, submitted to Advances in Water Resources.
 
-1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, preprint.
+1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, submitted to Advances in Water Resources.
 
 ## Journal Papers
 
