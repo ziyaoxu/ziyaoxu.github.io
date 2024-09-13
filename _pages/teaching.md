@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Lecturer at University of Notre Dame
+* ACMS 40630/60630 Nonlinear Dynamical Systems, Fall 2024
+
 * ACMS 20620 Applied Linear Algebra, Spring 2024
 
 * ACMS 40630/60630 Nonlinear Dynamical Systems, Fall 2023
