@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+* An Interior Penalty Discontinuous Galerkin (IPDG) Method for an Interface Model of Flow in Fractured Porous Media, the third North American High Order Methods Conference (NAHOMCon), Dartmouth College, Hanover, New Hampshire, June 17-19, 2024.
+
+* A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws with non-hydrostatic equilibria, Finite Element Circus, University of Notre Dame, South Bend, Indiana, October 20-21, 2023.
+
+* A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws with non-hydrostatic equilibria, the 8th Annual Meeting of SIAM Central States Section, Lincoln, Nebraska, October 7-8, 2023.
+
 * The Hybrid-Dimensional Darcy’s Law: A Non-Conforming Reinterpreted Discrete Fracture Model
 (RDFM) for the Compressible Miscible Displacement and Multicomponent Gas Flow in Fractured Media, SPE Reservoir Simulation Conference, Galveston, TX, Mar. 2023.
 
