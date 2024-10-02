@@ -11,7 +11,7 @@ author_profile: true
 
 1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, submitted to Journal of Computational Physics.
 
-1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, submitted to Journal of Computational Physics.
+1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, preprint.
 
 1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338, submitted to Advances in Water Resources.
 
@@ -19,7 +19,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Xu** & C.-W. Shu, A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules, Journal of Scientific Computing, to appear.
+1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1007/s10915-024-02661-8">A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules</a>, Journal of Scientific Computing, 101, 39 (2024).
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1137/22M1536479">Local characteristic decomposition–free high-order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants</a>, SIAM Journal on Scientific Computing, v46 (2024), pp.A1352-A1372. 
 
