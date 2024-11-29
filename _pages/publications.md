@@ -13,11 +13,11 @@ author_profile: true
 
 1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, preprint.
 
-1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, arXiv:2404.18338, submitted to Advances in Water Resources.
-
 1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for systems of hyperbolic balance laws, submitted to Advances in Water Resources.
 
 ## Journal Papers
+
+1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, Advances in Water Resources, to appear.
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1007/s10915-024-02661-8">A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules</a>, Journal of Scientific Computing, 101, 39 (2024).
 
