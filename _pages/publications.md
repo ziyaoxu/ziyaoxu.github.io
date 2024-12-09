@@ -17,9 +17,9 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Xu** & D. Gläser, <a href="https://arxiv.org/abs/2404.18338">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, Advances in Water Resources, to appear.
+1. **Z. Xu** & D. Gläser, <a href="https://doi.org/10.1016/j.advwatres.2024.104869">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, Advances in Water Resources, v195 (2025), 104869.
 
-1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1007/s10915-024-02661-8">A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules</a>, Journal of Scientific Computing, 101, 39 (2024).
+1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1007/s10915-024-02661-8">A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws based on the Gauss-Lobatto quadrature rules</a>, Journal of Scientific Computing, v101 (2024), 39.
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1137/22M1536479">Local characteristic decomposition–free high-order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants</a>, SIAM Journal on Scientific Computing, v46 (2024), pp.A1352-A1372. 
 
