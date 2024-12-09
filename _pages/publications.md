@@ -23,7 +23,7 @@ author_profile: true
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1137/22M1536479">Local characteristic decomposition–free high-order finite difference WENO schemes for hyperbolic systems endowed with a coordinate system of Riemann invariants</a>, SIAM Journal on Scientific Computing, v46 (2024), pp.A1352-A1372. 
 
-1. X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504">A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media</a>, Advances in Water Resources, (2023), 104504.
+1. X. Wu, H. Guo, **Z. Xu** & Y. Yang, <a href="https://doi.org/10.1016/j.advwatres.2023.104504">A reinterpreted discrete fracture model for Darcy-Forchheimer flow in fractured porous media</a>, Advances in Water Resources, v179 (2023), 104504.
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1016/j.jcp.2023.112304">On the conservation property of positivity-preserving discontinuous Galerkin methods for stationary hyperbolic equations</a>, Journal of Computational Physics, v490 (2023), 112304.
 
