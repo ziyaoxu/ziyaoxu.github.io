@@ -16,7 +16,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for the shallow water equations, Advances in Water Resources, to appear.
+1. **Z. Xu** & C.-W. Shu, A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for the shallow water equations, Advances in Water Resources, v196 (2025), 104898.
 
 1. **Z. Xu** & D. Gläser, <a href="https://doi.org/10.1016/j.advwatres.2024.104869">An extension of the box method discrete fracture model (Box-DFM) to include low-permeable barriers with minimal additional degrees of freedom</a>, Advances in Water Resources, v195 (2025), 104869.
 
