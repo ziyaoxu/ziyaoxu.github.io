@@ -7,14 +7,14 @@ author_profile: true
 
 ## Preprints
 
-1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2406.05237">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, arXiv:2406.05237, submitted to Journal of Computational Physics.
-
 1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, submitted to Journal of Computational Physics.
 
 1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, preprint.
 
 
 ## Journal Papers
+
+1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2406.05237">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, Journal of Computational Physics, to appear.
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1016/j.advwatres.2025.104898">A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for the shallow water equations</a>, Advances in Water Resources, v196 (2025), 104898.
 
