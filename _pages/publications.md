@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Xu** & Y.-T. Zhang, <a href="https://doi.org/10.1016/j.jcp.2025.113838">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, Journal of Computational Physics.
+1. **Z. Xu** & Y.-T. Zhang, <a href="https://doi.org/10.1016/j.jcp.2025.113838">High-order exponential time differencing multi-resolution alternative finite difference WENO methods for nonlinear degenerate parabolic equations</a>, Journal of Computational Physics, v529, 113838.
 
 1. **Z. Xu** & C.-W. Shu, <a href="https://doi.org/10.1016/j.advwatres.2025.104898">A high-order well-balanced alternative finite difference WENO (A-WENO) method with the exact conservation property for the shallow water equations</a>, Advances in Water Resources, v196 (2025), 104898.
 
