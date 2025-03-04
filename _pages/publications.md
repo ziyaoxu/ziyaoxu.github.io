@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+1. **Z. Xu**, Z. Sun & Y.-T. Zhang, Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations, submitted to Journal of Scientific Computing. 
+
 1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, submitted to Journal of Computational Physics.
 
 1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, arXiv:2405.06874, preprint.
