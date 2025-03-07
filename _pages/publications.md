@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-1. **Z. Xu**, Z. Sun & Y.-T. Zhang, Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations, submitted to Journal of Scientific Computing. 
+1. **Z. Xu**, Z. Sun & Y.-T. Zhang, <a href="http://arxiv.org/abs/2503.03019">Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations</a>, submitted to Journal of Scientific Computing. 
 
 1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, A reinterpreted discrete fracture model for wormhole propagation in fractured porous media, submitted to Journal of Computational Physics.
 
