@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal web page!
 
-I’m a Robert and Sara Lumpkins Posdoctoral Fellow in Applied and Computational Mathematics at the Department of Applied and Computational Mathematics and Statistics, University of Notre Dame. 
+I’m a Robert and Sara Lumpkins Posdoctoral Research Associate in the Department of Applied and Computational Mathematics and Statistics at University of Notre Dame. 
 
 I received my Ph.D. in Applied Mathematics at Brown University, advised by Prof. <a href="https://www.dam.brown.edu/people/shu/">Chi-Wang Shu</a>.
 
