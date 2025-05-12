@@ -10,11 +10,9 @@ redirect_from:
 
 Welcome to my personal web page!
 
-I’m a Robert and Sara Lumpkins Posdoctoral Research Associate in the Department of Applied and Computational Mathematics and Statistics at University of Notre Dame. 
+I am currently a Robert and Sara Lumpkins Postdoctoral Research Associate in the Department of Applied and Computational Mathematics and Statistics at University of Notre Dame. In Fall 2025, I will join Binghamton University as a tenure-track Assistant Professor in the Department of Mathematics and Statistics.
 
-I received my Ph.D. in Applied Mathematics at Brown University, advised by Prof. <a href="https://www.dam.brown.edu/people/shu/">Chi-Wang Shu</a>.
-
-Previously, I obtained my Master's degree in Mathematics at Michigan Technological University, advised by Prof. <a href="https://pages.mtu.edu/~yyang7/">Yang Yang</a>, and my Bachelor's degree in Petroleum Engineering at China University of Petroleum (East China).
+I received my Ph.D. in Applied Mathematics from Brown University, where I was advised by Professor <a href="https://www.dam.brown.edu/people/shu/">Chi-Wang Shu</a>. Prior to that, I earned my M.S. in Mathematical Sciences from Michigan Technological University under the supervision of Professor <a href="https://pages.mtu.edu/~yyang7/">Yang Yang</a>, and my B.E. in Petroleum Engineering from China University of Petroleum.
 
 ### Research Interests
 
