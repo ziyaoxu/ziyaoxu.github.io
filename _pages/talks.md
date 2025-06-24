@@ -7,6 +7,8 @@ author_profile: true
 
 * Stability and Time-Step Constraints of Exponential Time Differencing Runge-Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations, SIAM-SEAS, The University of Tennessee, Knoxville, Mar 21-23, 2025.
 
+* High-order exponential time differencing (ETD) multi-resolution alternative finite difference WENO methods (A-WENO) for nonlinear degenerate parabolic equations, The 9th SIAM Central States Section Annual Meeting, Kansas City, Missouri, October 5-6, 2024.
+
 * An Interior Penalty Discontinuous Galerkin (IPDG) Method for an Interface Model of Flow in Fractured Porous Media, the third North American High Order Methods Conference (NAHOMCon), Dartmouth College, Hanover, New Hampshire, June 17-19, 2024.
 
 * A high-order well-balanced discontinuous Galerkin method for hyperbolic balance laws with non-hydrostatic equilibria, the 8th Annual Meeting of SIAM Central States Section, Lincoln, Nebraska, October 7-8, 2023.
