@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-1. **Z. Xu**, G. Liu & Y.-T. Zhang, <a href="https://arxiv.org/abs/2507.16631">A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation</a>, preprint.
+1. **Z. Xu**, G. Liu & Y.-T. Zhang, <a href="https://arxiv.org/abs/2507.16631">A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation</a>, arXiv:2507.16631, preprint.
 
 1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2506.04416">Exponential Time Differencing Runge-Kutta Discontinuous Galerkin (ETD-RKDG) Methods for Nonlinear Degenerate Parabolic Equations</a>, arXiv:2506.04416, preprint. 
 
