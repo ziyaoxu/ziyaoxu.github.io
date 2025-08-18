@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](/files/ZiyaoXu_CV.pdf) (updated as of July 2025)
+Full CV available [here](/files/ZiyaoXu_CV.pdf) (updated as of August 2025)
 
 Education
 ======
@@ -19,4 +19,5 @@ Education
 
 Work Experience
 ======
-* July 2023 - Present: Robert and Sara Lumpkins Postdoctoral Research Associate, University of Notre Dame.
+* August 2025 - Present: Assistant Professor, Binghamton University.
+* July 2023 - August 2025: Robert and Sara Lumpkins Postdoctoral Research Associate, University of Notre Dame.

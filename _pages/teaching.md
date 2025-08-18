@@ -5,23 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Lecturer at University of Notre Dame
+### Instructor at Binghamton University
+* MATH 478 Real Analysis I, Fall 2025
+
+### Instructor at University of Notre Dame
 * ACMS 30530 Introduction to Probability, Spring 2025
-
 * ACMS 40630/60630 Nonlinear Dynamical Systems, Fall 2024
-
 * ACMS 20620 Applied Linear Algebra, Spring 2024
-
 * ACMS 40630/60630 Nonlinear Dynamical Systems, Fall 2023
 
 ### Graduate Teaching Assistant at Brown University
 * APMA 0350 Applied Ordinary Differential Equations, Spring 2021
-
 * APMA 1170 Introduction to Computational Linear Algebra, Fall 2020
 
-### Graduate Teaching Instructor at Michigan Technological University
+<!-- ### Graduate Teaching Instructor at Michigan Technological University
 * MA 2160 Calculus 2, Spring 2019
-
 * MA 1135 Calculus for Life Sciences, Fall 2018
-
-* MA 2160 Calculus 2, Spring 2018
+* MA 2160 Calculus 2, Spring 2018 -->
