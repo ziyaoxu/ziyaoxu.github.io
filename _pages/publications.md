@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Xu**, Z. Sun & Y.-T. Zhang, <a href="http://arxiv.org/abs/2503.03019">Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations</a>, Journal of Scientific Computing, v105 (2025), 59.
+1. **Z. Xu**, Z. Sun & Y.-T. Zhang, <a href="https://doi.org/10.1007/s10915-025-03085-8">Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations</a>, Journal of Scientific Computing, v105 (2025), 59.
 
 1. X. Wu, H. Guo, **Z. Xu**, L. Tian & Y. Yang, <a href="https://doi.org/10.1016/j.jcp.2025.113953">A reinterpreted discrete fracture model for wormhole propagation in fractured porous media</a>, Journal of Computational Physics, v532 (2025), 113953.
 
