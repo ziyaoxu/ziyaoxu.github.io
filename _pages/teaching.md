@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Instructor at Binghamton University
+* MATH 330 Number Systems, Spring 2026
 * MATH 478 Real Analysis I, Fall 2025
 
 ### Instructor at University of Notre Dame
