@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. Y. Liu & **Z. Xu**, <a href="https://arxiv.org/abs/2405.06874">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, Journal of Scientific Computing, accepted.
+1. Y. Liu & **Z. Xu**, <a href="https://doi.org/10.1007/s10915-026-03285-w">An interior penalty discontinuous Galerkin method for an interface model of flow in fractured porous media</a>, Journal of Scientific Computing, v107, (2026), 83.
 
 1. **Z. Xu**, G. Liu & Y.-T. Zhang, <a href="https://arxiv.org/abs/2507.16631">A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation</a>, Journal of Scientific Computing, v106 (2026), 67.
 
