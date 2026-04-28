@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation, Midwest Numerical Analysis Day 2026, University of Notre Dame, April 11–12, 2026.
+
 * Session 1: A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation, Session 2: Stability and Time-Step Constraints of Exponential Time Differencing Runge-Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations, 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, Pennsylvania State University, State College, PA, 31 October - 2 November, 2025.
 
 * A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation, the 10th Annual Meeting of SIAM Central States Section, University of Arkansas, Fayetteville, Arkansas, October 11–12, 2025.
