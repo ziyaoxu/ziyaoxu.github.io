@@ -7,7 +7,9 @@ author_profile: true
 
 ## Preprints
 
-1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2506.04416">Exponential Time Differencing Runge-Kutta Discontinuous Galerkin (ETD-RKDG) Methods for Nonlinear Degenerate Parabolic Equations</a>, arXiv:2506.04416, preprint. 
+1. **Z. Xu** & Y.-T. Zhang, <a href="https://arxiv.org/abs/2506.04416">Exponential Time Differencing Runge-Kutta Discontinuous Galerkin (ETD-RKDG) Methods for Nonlinear Degenerate Parabolic Equations</a>, arXiv:2506.04416, preprint.
+
+1. J. Liu, H. Guo, Z. Chen & **Z. Xu**, A high-order finite volume discrete fracture model for single-phase flow in fractured porous media, under review.
 
 ## Journal Papers
 
