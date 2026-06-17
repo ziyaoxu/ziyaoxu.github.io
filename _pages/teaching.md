@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Instructor at Binghamton University
+* MATH 505 Analysis I, Fall 2026
+* MATH 446/546 Scientific Computing in Python, Fall 2026
 * MATH 330 Number Systems, Spring 2026
 * MATH 478 Real Analysis I, Fall 2025
 
