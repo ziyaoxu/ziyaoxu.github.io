@@ -11,7 +11,7 @@ author_profile: true
 
 2. J. Liu, H. Guo, Z. Chen & **Z. Xu**, A high-order finite volume discrete fracture model for single-phase flow in fractured porous media, under review.
 
-3. **Z. Xu** & Z. Sun, TVD and TVB Preservation without TVD Time Discretization for Discontinuous Galerkin Methods, submitted.
+3. **Z. Xu** & Z. Sun, <a href="https://arxiv.org/abs/2606.26692">TVD and TVB Preservation without TVD Time Discretization for Discontinuous Galerkin Methods</a>, arXiv:2606.26692, preprint.
 
 ## Journal Papers
 
