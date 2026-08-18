@@ -11,6 +11,10 @@ author_profile: true
 
 1. **Z. Xu** & Z. Sun, <a href="https://arxiv.org/abs/2606.26692">TVD and TVB Preservation without TVD Time Discretization for Discontinuous Galerkin Methods</a>, arXiv:2606.26692, preprint.
 
+1. **Z. Xu**, <a href="https://doi.org/10.48550/arXiv.2608.04431">An unfitted finite element discrete fracture model for low-permeability barriers via local stiffness matrix modification</a>, arXiv:2608.04431, preprint.
+
+1. **Z. Xu**, <a href="https://doi.org/10.48550/arXiv.2608.07807">A non-conforming finite difference discrete fracture model based on an energy principle</a>, arXiv:2608.07807, preprint.
+
 ## Journal Papers
 1. J. Liu, H. Guo, Z. Chen & **Z. Xu**, <a href="https://doi.org/10.1016/j.advwatres.2026.105425">A high-order finite volume discrete fracture model for single-phase flow in fractured porous media</a>, Advances in Water Resources, v216 (2026), 105425.
 
