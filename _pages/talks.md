@@ -4,6 +4,7 @@ title: "Talks and Presentations (Recent)"
 permalink: /talks/
 author_profile: true
 ---
+* Exponential Time Differencing Runge–Kutta Discontinuous Galerkin (ETD-RKDG) Methods for Nonlinear Degenerate Parabolic Equations, SIAM Annual Meeting (AN26), Cleveland, OH, July 10, 2026.
 
 * A Conservative and Positivity-Preserving Discontinuous Galerkin Method for the Population Balance Equation, Midwest Numerical Analysis Day 2026, University of Notre Dame, April 11–12, 2026.
 
