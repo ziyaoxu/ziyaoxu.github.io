@@ -15,6 +15,8 @@ author_profile: true
 
 1. **Z. Xu**, <a href="https://doi.org/10.48550/arXiv.2608.07807">A non-conforming finite difference discrete fracture model based on an energy principle</a>, arXiv:2608.07807, preprint.
 
+1. Y. Wei, **Z. Xu** and C.-W. Shu, <a href="https://bpb-us-w2.wpmucdn.com/sites.brown.edu/dist/0/348/files/2026/09/Awell-balancedconservativehigh-orderalternativefinite-1-differenceWENOA-WENOmethodforEulerequationswith-2-gravity.pdf">A well-balanced conservative high-order alternative finite difference WENO (A-WENO) method for Euler equations with gravity</a>, preprint.
+
 ## Journal Papers
 1. J. Liu, H. Guo, Z. Chen & **Z. Xu**, <a href="https://doi.org/10.1016/j.advwatres.2026.105425">A high-order finite volume discrete fracture model for single-phase flow in fractured porous media</a>, Advances in Water Resources, v216 (2026), 105425.
 
