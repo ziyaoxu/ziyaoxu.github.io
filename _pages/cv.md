@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](/files/ZiyaoXu_CV.pdf) (updated as of August 2025)
+Full CV available [here](/files/ZiyaoXu_CV.pdf) (updated as of October 2026)
 
 Education
 ======
